@@ -1,2 +1,0 @@
-# .github
-ChapSpace's README!
